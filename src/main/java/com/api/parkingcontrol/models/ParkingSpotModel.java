@@ -1,6 +1,5 @@
 package com.api.parkingcontrol.models;
 
-import org.hibernate.annotations.GeneratorType;
 
 import javax.persistence.*;
 import java.io.Serializable;
